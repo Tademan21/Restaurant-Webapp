@@ -49,10 +49,7 @@ This webapp uses a number of open source projects or frameworks to work:
 #
 ![Manage Products](https://user-images.githubusercontent.com/46291816/54878662-81e58480-4e55-11e9-85af-d9f457bcee34.png)
 #
-![Info](https://user-images.githubusercontent.com/46291816/54878664-8ad65600-4e55-11e9-8e99-ae05f70b135f.png)
-#
-![profile](https://user-images.githubusercontent.com/46291816/54878666-8dd14680-4e55-11e9-9c7d-00857dc7ec10.png)
-#
+
 ![settings](https://user-images.githubusercontent.com/46291816/54878668-9033a080-4e55-11e9-9316-cb10a37a0c11.png)
 
 
